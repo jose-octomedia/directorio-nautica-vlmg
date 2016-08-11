@@ -1,0 +1,19 @@
+body {
+    font-family: 'Lato';
+}
+
+.fa-btn {
+    margin-right: 6px;
+}
+
+h1{
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+
+@media (min-width: 1200px){
+    .directory-table{
+        min-width: 1600px;
+    }
+}
